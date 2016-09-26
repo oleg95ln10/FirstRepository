@@ -10,7 +10,7 @@ namespace ConsoleApplication197
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("My first commit");
+            Console.WriteLine("My second commit");
         }
     }
 }
